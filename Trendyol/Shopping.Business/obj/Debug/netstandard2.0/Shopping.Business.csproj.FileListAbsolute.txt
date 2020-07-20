@@ -1,0 +1,3 @@
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.0\Shopping.Business.csprojAssemblyReference.cache
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.0\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.0\Shopping.Business.AssemblyInfo.cs

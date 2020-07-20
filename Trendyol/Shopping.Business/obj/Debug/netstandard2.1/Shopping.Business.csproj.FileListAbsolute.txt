@@ -1,0 +1,7 @@
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\bin\Debug\netstandard2.1\Shopping.Business.deps.json
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\bin\Debug\netstandard2.1\Shopping.Business.dll
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.1\Shopping.Business.AssemblyInfoInputs.cache
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.1\Shopping.Business.AssemblyInfo.cs
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\bin\Debug\netstandard2.1\Shopping.Business.pdb
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.1\Shopping.Business.dll
+C:\Users\tr32996\source\repos\Trendyol\Shopping.Business\obj\Debug\netstandard2.1\Shopping.Business.pdb
